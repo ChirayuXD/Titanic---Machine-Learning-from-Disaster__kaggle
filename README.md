@@ -49,6 +49,10 @@ The script generates a `submission.csv` file with two columns:
 1. PassengerId
 2. Survived (0 = Did not survive, 1 = Survived)
 
+##Score
+The model acheived a 70% percent accuracy score on kaggle submission
+
+
 ## Potential Improvements
 - Add more features
 - Try different machine learning algorithms
